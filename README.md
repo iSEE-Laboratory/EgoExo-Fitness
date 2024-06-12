@@ -1,6 +1,6 @@
 # <p align="center">EgoExo-Fitness: Towards Egocentric and Exocentric <br> Full-Body Action Understanding</p>
 
-### <p align="center">*Yuan-Ming Li, Wei-Jin Huang, An-Lan Wang, Ling-An Zeng, Jing-Ke Meng, Wei-Shi Zheng*</p>
+### <p align="center">*Yuanming Li, Weijin Huang, Anlan Wang, Lingan Zeng, Jingke Meng, Weishi Zheng*</p>
 
 Official repository of paper "EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding"
 
