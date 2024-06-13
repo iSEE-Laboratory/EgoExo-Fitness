@@ -1,4 +1,4 @@
-# <p align="center">EgoExo-Fitness: Towards Egocentric and Exocentric <br> Full-Body Action Understanding</p>
+# <p align="center">EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding</p>
 
 ### <p align="center">*Yuanming Li, Weijin Huang, Anlan Wang, Lingan Zeng, Jingke Meng, Weishi Zheng*</p>
 
