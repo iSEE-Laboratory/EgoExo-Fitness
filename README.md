@@ -2,7 +2,7 @@
 
 ### <p align="center">*Yuanming Li, Weijin Huang, Anlan Wang, Lingan Zeng, Jingke Meng, Weishi Zheng*</p>
 
-#### <p align="center">[[paper]](https://arxiv.org/abs/2406.08877) </p>
+#### <p align="center">[[Paper w/ Appendix]](https://arxiv.org/abs/2406.08877) </p>
 
 Official repository of paper "EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding"
 
