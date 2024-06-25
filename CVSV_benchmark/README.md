@@ -11,7 +11,11 @@ conda env create -f environment.yml
 ```
 
 ## Usage
-Please refer to **`run.sh`** to see the running scripts. Our experiments can be conducted on NVIDIA RTX 3090Ti GPUs. 
+Please refer to **`run.sh`** to see the running scripts. An example is shown as below:
+```
+CUDA_VISIBLE_DEVICES=4,5 python train.py --config configs/All_Pairs/train_config_egofbau_CAT_pair_ClsSeq.yml --pair
+```
+Our experiments can be conducted on NVIDIA RTX 3090Ti GPUs. 
 
 ## Citation
 Please cite it if you find this work useful.
