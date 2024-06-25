@@ -3,6 +3,7 @@
 ## News
 - [2024.06.25] CVSV Baseline Code is available.
 - [2024.06.25] Configs on experiments of various training sources (i.e., Table 4 in our paper) are available.
+- [TODO] Dataset and Annotations are coming soon.
 
 ## Environment
 You can build the Anaconda environment via the following script.
