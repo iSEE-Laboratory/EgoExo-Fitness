@@ -1,4 +1,8 @@
-# Cross-View Sequence Verification Benchmark
+# Cross-View Sequence Verification (CVSV) Benchmark
+
+## News
+- [2024.06.25] CVSV Baseline Code is available.
+- [2024.06.25] Configs on experiments of various training sources (i.e., Table 4 in our paper) are available. 
 
 ## Environment
 You can build the Anaconda environment via the following script.
@@ -19,7 +23,6 @@ Please cite it if you find this work useful.
   year={2024}
 }
 ```
-
 
 ## Acknowledgement
 The authors thank the team members of WeakSVR for providing the code used in her works and useful feedback.
