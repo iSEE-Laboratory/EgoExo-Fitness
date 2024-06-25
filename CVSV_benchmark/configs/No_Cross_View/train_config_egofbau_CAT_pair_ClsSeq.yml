@@ -1,0 +1,59 @@
+TRAIN:
+  USE_CUDA: True
+  MAX_EPOCH: 60
+  BATCH_SIZE: 8
+  LR: 0.00005
+  DROPOUT: 0.0
+  SEED: 1234
+  FREEZE_BACKBONE: False
+  WEAK_SUPERVISION: False
+  SAVE_PATH: 'EgoExo_Fitness_logs/cat_lr0.00005_bs8ns16_sam3800_setting4_exp6'
+#  SAVE_PATH: 'coin_logs/resnet50-kin4+vit+sa_lr0.0001_bs16ns16'
+#  SAVE_PATH: 'diving_logs/resnet50-kin4+vit+sa_lr0.0001_bs16ns16'
+
+MODEL:
+  BACKBONE: 'utsv'
+  BASE_MODEL: 'clip'
+  PRETRAIN: '/home/yuanming/Code/pretrained_models/resnet50-kinetics400.pth'
+  DIM_EMBEDDING: 128
+  TRANSFORMER: True
+  ALIGNMENT: True
+  SEQ_LOSS_COEF: 1.0
+  INFO_LOSS_COEF: 0.0
+  GUMBEL_LOSS_COEF: 0.0
+  SAVE_EPOCHS: 10
+
+
+DATASET:
+  MODE: 'train'
+
+
+# #  CSV dataset
+#   NAME: 'CSV'
+#   TXT_PATH: './annotations/train_pairs.txt'
+#   NUM_CLASS: 45
+
+#  EGOEXO_FITNESS_SV dataset
+  NAME: 'EGOEXO_FITNESS_SV'
+  TXT_PATH: './annotations/cross_view_setting3_exp6/train_pairs.txt'
+  NUM_CLASS: 41
+
+#  COIN dataset
+#  NAME: 'COIN-SV'
+#  TXT_PATH: './Datasets/COIN-SV/train_pairs.txt'
+#  NUM_CLASS: 37
+
+#  Diving dataset
+#  NAME: 'DIVING48-SV'
+#  TXT_PATH: './Datasets/DIVING48-SV/train_pairs.txt'
+#  NUM_CLASS: 20
+
+
+  NUM_SAMPLE: 3800
+  NUM_CLIP: 16
+  AUGMENT: True
+  SHUFFLE: True
+  NUM_WORKERS: 10
+
+
+
