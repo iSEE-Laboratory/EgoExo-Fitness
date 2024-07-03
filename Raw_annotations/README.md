@@ -1,0 +1,1 @@
+# Raw annotations of EgoExo-Fitness Dataset
