@@ -20,7 +20,7 @@
                 ...
             },
             "num_views": 6
-            "num_sequences": 6
+            "num_sequences": 3
         },
         ...
   ],
