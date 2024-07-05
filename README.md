@@ -10,7 +10,6 @@ All resources will be available soon. **If you have any question or hope to cond
 
 **Contact:** 
 - Email: yuanmingli527@gmail.com / liym266@mail2.sysu.edu.cn
-- WeChat: Liymmmmmme
 
 ## 💬 News
 - [2024.06.13] The repository is created.
