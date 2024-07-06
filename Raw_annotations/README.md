@@ -21,6 +21,15 @@
             },
             "num_views": 6
             "num_sequences": 3
+            "sequences": {
+                "sequence_start_end_frame": [
+                    [
+                        20,
+                        1000
+                    ],
+                    ...
+                ]
+            }
         },
         ...
   ],
