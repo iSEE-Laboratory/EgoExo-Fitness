@@ -23,7 +23,7 @@ We present **EgoExo-Fitness**, a new full-body action understanding dataset, fea
  ![](./img/dataset_intro.png)
 
 ## ⏬ Download
-To download the dataset, please sign the [License Agreement](./License_Agreement.pdf) and send it to liym266@mail2.sysu.edu.cn for downloading our datasets and raw annotations. Click [here](./Raw_annotations/README.md) to learn more details about the released dataset and the raw annotations.
+To download the dataset, please sign the [License Agreement](./License_Agreement.pdf) and send it to liym266@mail2.sysu.edu.cn for downloading our datasets and raw annotations. The shared link will be expired in two weeks. Click [here](./Raw_annotations/README.md) to learn more details about the released dataset and the raw annotations.
 
 
 ## 📑 Citation
