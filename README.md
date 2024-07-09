@@ -14,6 +14,7 @@ All resources will be available soon. **If you have any question or hope to cond
 ## 💬 News
 - [2024.06.14] The preprint paper is available.
 - [2024.07.02] This work is accepted by ECCV-2024.
+- [2024.07.09] Data and part of the annotations are open to apply for 🔥🔥🔥
 - [2024.07.09] Code and annotaions for ***Cross-View Sequence Verification*** benchmark are available. Click [here](./CVSV_benchmark/README.md) for more details.
 
 
