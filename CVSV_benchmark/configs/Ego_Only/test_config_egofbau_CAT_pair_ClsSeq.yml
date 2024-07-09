@@ -31,7 +31,7 @@ DATASET:
 
 #  EGOEXO_FITNESS_SV dataset
   NAME: 'EGOEXO_FITNESS_SV'
-  TXT_PATH: './annotations/cross_view_setting3_exp10/test_pairs.txt'
+  TXT_PATH: './annotations/Ego_Only/test_pairs.txt'
   NUM_CLASS: 41
 
 #  COIN dataset
