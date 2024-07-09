@@ -1,6 +1,7 @@
-# Raw annotations of EgoExo-Fitness Dataset
+# Details about the released EgoExo-Fitness Dataset
 
-## Meta Records
+## Raw Annotations
+### Meta Records
 `meta_records.json` includes basic information (e.g., record id, views, frames, etc) of all available records. Here is the example:
 
 ```
@@ -40,7 +41,7 @@
 }
 ```
 
-## Interpretable Action Judgement
+### Interpretable Action Judgement
 `interpretable_action_judgement.json` includes detailed annotations on how well an single action is performed. Here is the example:
 ```
 {
