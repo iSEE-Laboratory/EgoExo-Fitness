@@ -5,7 +5,7 @@ To download the dataset, please sign the [License Agreement](../License_Agreemen
 
 ## Data 
 EgoExo-Fitness featrues synchronized egocentric and exocentric fitness videos. Through the provided link, you can download the following data:
-- Preprocessed video frames in 30 fps (about 90 GB).
+- Preprocessed video frames in 30 fps.
 - Extracted frame-wise CLIP-B features.
 
 Currently the raw videos are not available through the link. If you are interested in the raw videos, please feel free to contact us.
