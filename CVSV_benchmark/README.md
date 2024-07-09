@@ -3,6 +3,9 @@
 ## News
 - [2024.07.09] CVSV Baseline Code and Annotations are available.
 
+## Data Preparation
+Please read the [instruction](../README.md) to apply for the link to download the dataset.
+
 ## Environment
 You can build the Anaconda environment via the following script.
 ```
