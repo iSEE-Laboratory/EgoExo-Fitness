@@ -6,7 +6,10 @@
 
 Official repository of ECCV-2024 paper "EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding"
 
-All resources will be available soon. 
+All resources will be available soon. **If you have any question, please feel free to contact us**.
+
+**Contact:** 
+- Email: yuanmingli527@gmail.com / liym266@mail2.sysu.edu.cn
 
 ## 💬 News
 - [2024.06.14] The preprint paper is available.
@@ -34,8 +37,3 @@ Please cite it if you find this work useful.
   year={2024}
 }
 ```
-
-**If you have any question, please feel free to contact us**.
-
-**Contact:** 
-- Email: yuanmingli527@gmail.com / liym266@mail2.sysu.edu.cn
