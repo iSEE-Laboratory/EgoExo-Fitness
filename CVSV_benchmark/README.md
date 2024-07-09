@@ -1,9 +1,7 @@
 # Cross-View Sequence Verification (CVSV) Benchmark
 
 ## News
-- [2024.06.25] CVSV Baseline Code is available.
-- [2024.06.25] Configs on experiments of various training sources (i.e., Table 4 in our paper) are available.
-- [TODO] Dataset and Annotations are coming soon.
+- [2024.07.09] CVSV Baseline Code and Annotations are available.
 
 ## Environment
 You can build the Anaconda environment via the following script.
@@ -30,13 +28,4 @@ Please cite it if you find this work useful.
 ```
 
 ## Acknowledgement
-The authors thank the team members of WeakSVR for providing the code used in her works and useful feedback.
-```
-@inproceedings{dong2023weakly,
-  title={Weakly supervised video representation learning with unaligned text for sequential videos},
-  author={Dong, Sixun and Hu, Huazhang and Lian, Dongze and Luo, Weixin and Qian, Yicheng and Gao, Shenghua},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={2437--2447},
-  year={2023}
-}
-```
+The authors thank the team members of [WeakSVR](https://github.com/svip-lab/WeakSVR/tree/main) for providing the code used in her works and useful feedback.
