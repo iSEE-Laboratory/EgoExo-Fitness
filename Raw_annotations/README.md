@@ -1,5 +1,8 @@
 # Details about the released EgoExo-Fitness Dataset
 
+## ⏬ Download
+To download the dataset, please sign the [License Agreement](../License_Agreement.pdf) and send it to liym266@mail2.sysu.edu.cn for downloading our datasets and raw annotations. The shared link will be expired in two weeks.
+
 ## Data 
 EgoExo-Fitness featrues synchronized egocentric and exocentric fitness videos. Through the provided link, you can download the following data:
 - Preprocessed video frames in 30 fps (about 90 GB).
