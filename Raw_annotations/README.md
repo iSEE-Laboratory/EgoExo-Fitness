@@ -1,6 +1,15 @@
 # Details about the released EgoExo-Fitness Dataset
 
+## Data 
+EgoExo-Fitness featrues synchronized egocentric and exocentric fitness videos. Through the provided link, you can download the following data:
+- Preprocessed video frames in 30 fps (about 90 GB).
+- Extracted frame-wise CLIP-B features.
+
+Currently the raw videos are not available through the link. If you are interested in the raw videos, please feel free to contact us.
+
 ## Raw Annotations
+The raw annotations are also provided through the download link. Here are some illustrations of the raw annotations.
+
 ### Meta Records
 `meta_records.json` includes basic information (e.g., record id, views, frames, etc) of all available records. Here is the example:
 
