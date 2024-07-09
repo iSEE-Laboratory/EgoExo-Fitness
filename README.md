@@ -14,7 +14,7 @@ All resources will be available soon. **If you have any question or hope to cond
 ## 💬 News
 - [2024.06.13] The repository is created.
 - [2024.06.14] The preprint paper is available.
-- [2024.06.25] Code for Cross-View Sequence Verification benchmark is available. Click [here](./CVSV_benchmark/README.md) for more details.
+- [2024.06.25] Resources for Cross-View Sequence Verification benchmark are available. Click [here](./CVSV_benchmark/README.md) for more details.
 - [2024.07.02] This work is accepted by ECCV-2024.
 
 ## :paperclip: Abstract
