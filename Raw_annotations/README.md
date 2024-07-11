@@ -32,8 +32,8 @@ The raw annotations are also provided through the download link. Here are some i
                 },
                 ...
             },
-            "num_views": 6
-            "num_sequences": 3
+            "num_views": 6,
+            "num_sequences": 3,
             "sequences": {
                 "sequence_start_end_frame": [
                     [
@@ -42,7 +42,8 @@ The raw annotations are also provided through the download link. Here are some i
                     ],
                     ...
                 ]
-            }
+            },
+            "num_actions": 12
         },
         ...
   ],
