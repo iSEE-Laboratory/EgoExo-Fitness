@@ -10,6 +10,9 @@ EgoExo-Fitness featrues synchronized egocentric and exocentric fitness videos. T
 
 Currently the raw videos are not available through the link. If you are interested in the raw videos, please feel free to contact us.
 
+## Statistics
+We provide statistics calculating and drawing scripts in `./statistics_drawings.ipynb`.
+
 ## Raw Annotations
 The raw annotations are also provided through the download link. Here are some illustrations of the raw annotations.
 
