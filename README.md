@@ -15,7 +15,7 @@ All resources will be available soon. **If you have any question, please feel fr
 - [2024.06.14] The preprint paper is available.
 - [2024.07.02] This work is accepted by ECCV-2024. Many thanks to the co-workers!🥳🎉🎊
 - [2024.07.09] EgoExo-Fitness dataset and part of the raw annotations are open to apply for.🔥🔥🔥
-- [2024.07.09] Code and annotaions for ***Cross-View Sequence Verification*** benchmark are available. Click [here](./CVSV_benchmark/README.md) for more details.
+- [2024.07.09] Code for ***Cross-View Sequence Verification*** benchmark is available. Click [here](./CVSV_benchmark/README.md) for more details.
 
 
 ## :paperclip: Abstract
