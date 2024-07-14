@@ -113,3 +113,14 @@ The raw annotations are also provided through the download link. Here are some i
     ...
 }
 ```
+
+## 📑 Citation
+Please cite it if you find this work useful.
+```
+@inproceedings{li2024egoexo,
+  title={EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding},
+  author={Li, Yuan-Ming and Huang, Wei-Jin and Wang, An-Lan and Zeng, Ling-An and Meng, Jing-Ke and Zheng, Wei-Shi},
+  booktitle={European Conference on Computer Vision},
+  year={2024}
+}
+```
