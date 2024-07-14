@@ -16,6 +16,8 @@ We provide statistics calculating and drawing scripts in `./statistics_drawings.
 ## Raw Annotations
 The raw annotations are also provided through the download link. Here are some illustrations of the raw annotations.
 
+ ![](../img/statistics.png)
+
 ### Meta Records
 `meta_records.json` includes basic information (e.g., record id, views, frames, etc) of all available records. Here is the example:
 
