@@ -57,6 +57,25 @@ The raw annotations are also provided through the download link. Here are some i
 }
 ```
 
+### Action-Level Boundaries
+`action_level_annotations.json` includes action-level temporal boundaries. Here is the example:
+```
+{
+    "CeqSkC": {         // The key is the record ID in meta_records.json
+        "num_actions": 16,
+        "action_info": [
+            [
+                1,      // action ID
+                106,    // start frame ID
+                496     // end frame ID
+            ],
+            ...
+        ]
+    },
+    ...
+}
+```
+
 ### Interpretable Action Judgement
 `interpretable_action_judgement.json` includes detailed annotations on how well an single action is performed. Here is the example:
 ```
