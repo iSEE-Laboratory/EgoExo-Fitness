@@ -30,10 +30,10 @@ To download the dataset, please sign the [License Agreement](./License_Agreement
 ## 📑 Citation
 Please cite it if you find this work useful.
 ```
-@article{li2024egoexo,
+@inproceedings{li2024egoexo,
   title={EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding},
   author={Li, Yuan-Ming and Huang, Wei-Jin and Wang, An-Lan and Zeng, Ling-An and Meng, Jing-Ke and Zheng, Wei-Shi},
-  journal={arXiv preprint arXiv:2406.08877},
+  booktitle={European Conference on Computer Vision},
   year={2024}
 }
 ```
