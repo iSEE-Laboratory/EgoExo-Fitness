@@ -78,6 +78,9 @@ The raw annotations are also provided through the download link. Here are some i
 }
 ```
 
+### Substep-Level Boundaries
+Coming soon.
+
 ### Interpretable Action Judgement
 `interpretable_action_judgement.json` includes detailed annotations on how well an single action is performed. Here is the example:
 ```
