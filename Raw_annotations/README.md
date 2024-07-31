@@ -79,7 +79,7 @@ The raw annotations are also provided through the download link. Here are some i
 ```
 
 ### Substep-Level Boundaries
-`substep_level_annotations.json` includes substep-level temporal boundaries. Note that we convert the annotations as ActivityNet1.3 format. Here is the example:
+`substep_level_annotations.json` includes substep-level temporal boundaries. Note that we convert the annotations as [ActivityNet1.3](https://uwmadison.app.box.com/s/aisdoymowukc99zoc7gpqegxbb4whikx) format. Here is the example:
 ```
 {
     "classes": [
