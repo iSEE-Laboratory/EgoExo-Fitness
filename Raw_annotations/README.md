@@ -79,7 +79,47 @@ The raw annotations are also provided through the download link. Here are some i
 ```
 
 ### Substep-Level Boundaries
-Coming soon.
+`substep_level_annotations.json` includes substep-level temporal boundaries. Note that we convert the annotations as ActivityNet1.3 format. Here is the example:
+```
+{
+    "classes": [
+        "Kneeling pushing-ups",
+        "Push-ups",
+        ...
+    ],
+    "database": {
+        "FQPS6Y_4-3-1_ego_m": {
+            "annotations": [
+                {
+                    "label": "Kneeling pushing-ups",
+                    "segment_time": [
+                        167,
+                        182
+                    ],
+                    "segment_frame": [],
+                    "segment": [
+                        3.333333333333343,
+                        18.333333333333343
+                    ],
+                    "fps": 30
+                },
+                ...
+            ],
+            "duration": 69.66666666666667,
+            "fps": 30,
+            "num_frames": 2090,
+            "resolution": "",
+            "subset": "test",
+            "view": "ego_m",
+            "actor": "FQPS6Y",
+            "path": "frames_openFQPS6Y/ego_m/",
+            "seq_st": 4910,
+            "seq_ed": 7000
+        },
+        ...
+    }
+}
+```
 
 ### Interpretable Action Judgement
 `interpretable_action_judgement.json` includes detailed annotations on how well an single action is performed. Here is the example:
