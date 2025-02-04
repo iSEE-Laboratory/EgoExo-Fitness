@@ -31,9 +31,11 @@ To download the dataset, please sign the [License Agreement](./License_Agreement
 Please cite it if you find this work useful.
 ```
 @inproceedings{li2024egoexo,
-  title={EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding},
+  title={EgoExo-Fitness: towards egocentric and exocentric full-body action understanding},
   author={Li, Yuan-Ming and Huang, Wei-Jin and Wang, An-Lan and Zeng, Ling-An and Meng, Jing-Ke and Zheng, Wei-Shi},
   booktitle={European Conference on Computer Vision},
-  year={2024}
+  pages={363--382},
+  year={2024},
+  organization={Springer}
 }
 ```
