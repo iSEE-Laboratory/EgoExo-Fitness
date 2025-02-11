@@ -1,7 +1,9 @@
 # Details about the released EgoExo-Fitness Dataset
 
 ## ⏬ Download
-To download the dataset, please sign the [License Agreement](../License_Agreement.pdf) and send it to liym266@mail2.sysu.edu.cn for downloading our datasets and raw annotations. After applying for the dataset, you would be provided a download link of BaiDu Net Disk, which would be expired in one week. If you hope to download our dataset from Huggingface, please fill your Huggingface UserName or Email in the License Agreement and apply the dataset [here](https://huggingface.co/datasets/Lymann/EgoExo-Fitness).
+To download the dataset, please sign the [License Agreement](../License_Agreement.pdf) and send it to liym266@mail2.sysu.edu.cn for downloading our datasets and raw annotations. We provide the following downloading ways:
+- **Baidu NetDisk**: After applying for the dataset, we will sent you a download link of Baidu NetDisk, which would be expired in one week.
+- **Huggingface**: We have also uploaded our dataset on Huggingface. If you hope to download our dataset in this way, please sign the [License Agreement](../License_Agreement.pdf) together with your Huggingface UserName or Email, and then apply the dataset [here](https://huggingface.co/datasets/Lymann/EgoExo-Fitness).
 
 ## Data 
 EgoExo-Fitness featrues synchronized egocentric and exocentric fitness videos. Through the provided link, you can download the following data:
