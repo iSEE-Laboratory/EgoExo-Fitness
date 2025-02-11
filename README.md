@@ -16,6 +16,7 @@ All resources will be available soon. **If you have any question, please feel fr
 - [2024.07.02] This work is accepted by ECCV-2024. Many thanks to the co-workers!🥳🎉🎊
 - [2024.07.09] EgoExo-Fitness dataset and the raw annotations are open to apply for.🔥🔥🔥 Click [here](./Raw_annotations/README.md) for more details.
 - [2024.07.09] Code for ***Cross-View Sequence Verification*** benchmark is available. Click [here](./CVSV_benchmark/README.md) for more details.
+- [2025.02.11] EgoExo-Fitness dataset is available on Huggingface. Click [here](https://huggingface.co/datasets/Lymann/EgoExo-Fitness) for more details.
 
 
 ## :paperclip: Abstract
